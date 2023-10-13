@@ -16,7 +16,7 @@ export default function Globe(props) {
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
-  }, []);
+  }, []);chanfe;
 
   return (
     <React.StrictMode>
