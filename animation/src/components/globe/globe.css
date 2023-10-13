@@ -1,0 +1,20 @@
+.fullSize {
+    position: relative;
+    display: flex;
+    background-color: red;
+    height: 100vh;
+    width: 155vw; /* Adjusted to 100vw for full viewport width */
+    justify-content: center; /* Changed from justify-items to justify-content */
+    align-items: center;
+  }
+  
+  .globeShape {
+    background-color: pink;
+    position: fixed; /* Change position to fixed for a following effect */
+    height: 200px;
+    width: 200px;
+    left: 50%; /* Initially centered */
+    transform: translateX(-50%); /* Center horizontally */
+    /* Other styles as needed */
+  }
+  
