@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    overflow:hidden ;
+   
+}
+  
+  .cloud .cl0{
+    margin-left: 300px;
+    margin-top: -100px;
+    animation: moveCloud0 1s linear 1;
+    /* animation-name: moveCloud; */
+  }
+  .cloud .cl1{
+    margin-left: 700px;
+    animation: moveCloud1 1s linear 1;
+    /* animation-name: moveCloud1;
+    animation-delay: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1; */
+
+  }
+  .cloud .cl2{
+    margin-left: 300px;
+
+    animation: moveCloud2 1s linear 1;
+    /* animation-name: moveCloud; */
+  }
+  
+  
+  @keyframes moveCloud0 {
+    0% {
+      transform: translateX(20%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  @keyframes moveCloud1 {
+    0% {
+      transform: translateX(-50%); /* Start from the left, outside of the viewport */
+    }
+    100% {
+      transform: translateX(100%); /* End on the right, outside of the viewport */
+    }
+  }
+  @keyframes moveCloud2 {
+    0% {
+      transform: translateX(20%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  /* ---------------------- */
+  
