@@ -1,9 +1,9 @@
 import './App.css';
-import Globe from './components/globe/globe';
+import Globe from './components/char animation/globe';
 
 function App() {
   return (
-   <Globe head="Currently Working On Globe Animation"/>
+   <Globe head="Character"/>
   );
 }
 
