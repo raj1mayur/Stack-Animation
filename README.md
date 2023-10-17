@@ -1,5 +1,1 @@
-# Stack-Animation
-I have a idea in my mind. To implement it , I am making custom components for every step. 
-Nothing in those animations is perfect . just want my imagination in front of me to know if it possible to go to the final output.
-Once I will be done , I will then improve those components.
-Currently their is css used for animation , but I am thinking of going with js and three.js for the final animations.
+I have a conceptual idea that I am actively pursuing. In order to actualize this concept, I am in the process of crafting custom components for each developmental stage. While the animations I have created thus far may not exhibit flawless execution, my primary objective is to bring my imaginative vision to life and assess its feasibility. Once the initial phase is completed, I intend to refine these components. Presently, CSS has been employed for the animation, although I am contemplating transitioning to JavaScript and Three.js for the final animation sequences.
