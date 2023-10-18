@@ -4,6 +4,6 @@ I have a conceptual idea that I am actively pursuing. In order to actualize this
 
 <div/>
   
-<img align="left" width="100" height="100" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/0*VcMPr1unIjAIHw2j.jpg">
+<img align="center" width="500" height="500" src="https://miro.medium.com/v2/resize:fit:1200/format:webp/0*VcMPr1unIjAIHw2j.jpg">
 
 
