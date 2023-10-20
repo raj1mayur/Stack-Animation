@@ -1,1 +1,1 @@
-Currently Working on small components.
+One component at a time.
