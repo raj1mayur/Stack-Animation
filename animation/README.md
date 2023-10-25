@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Project Insights</title>
-</head>
-<body>
-    <h2 style="text-align: center;"><strong>Key Takeaways from This Project</strong></h2>
 
-    <h3><strong>1. Proficiency in Git</strong></h3>
+ <h2 style="text-align: center;"><strong>Key Takeaways from This Project</strong></h2>
+
+<h3><strong>1. Proficiency in Git</strong></h3>
     <ul>
         <li>Competency in cloning Git repositories.</li>
         <li>The process of pushing changes from a local repository to the primary branch.</li>
@@ -16,10 +11,8 @@
         <li>Utilizing HTML syntax for designing README files and other documents directly on GitHub.</li>
     </ul>
 
-    <h3><strong>2. Proficiency in React</strong></h3>
+<h3><strong>2. Proficiency in React</strong></h3>
     <ul>
         <li>Implementing an organized folder structure for creating components and integrating images.</li>
         <li>Recognizing the value of adding comments, even for minor details, as they prove immensely helpful during project retrospectives.</li>
     </ul>
-</body>
-</html>
